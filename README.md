@@ -41,6 +41,6 @@ Short Track Speed Skating, Skeleton, Ski Jumping, Snowboard, Speed Skating.
 
 •	The first bar chart displays the total number of athletes who participated in all the disciplines in the Winter Olympics 2022. We can observe that Ice hockey has the highest number of participants compared to all other sports as this game is quite popular in most countries. In contrast, the skeleton has the lowest number of participants.
 
-•	The second bar chart illustrates the total number of events in each discipline and the highest number of games played in the Curling discipline. In contrast, the lowest number of events took place in Badminton.
+•	The second bar chart illustrates the total number of events in each discipline and the highest number of games played in the Curling discipline. In contrast, the lowest number of events took place in Biathlon. 
 
 •	The scatterplot displays the data of the top 10 countries that won the highest number of medals in the Winter Olympics 2022. Norway leads the charts with 37 medals, followed by ROC and Germany.
